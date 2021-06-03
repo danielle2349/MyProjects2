@@ -1,0 +1,19 @@
+body
+{background: linear-gradient(#20A278 0%, #BEF0E0 100%);
+width:100%;
+text-align: center;}
+
+.line
+{background-color:black;
+height:6px;
+width:70px;
+margin:8px auto;}
+
+
+
+img
+{height: 250px;
+width: 250px;
+transition: transform .2s;}
+img:hover{transform: scale(0.9)}
+
